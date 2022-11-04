@@ -8,7 +8,7 @@ python3.8 -m venv env
 pip3 install -r requirements.txt
 ```
 
-Ativando virtual env e trabalhar com ele:
+Sempre que for trabalhar no lab, lembre de ativar o ambiente virtual (se estiver usando o vscode, instale o plugin):
 
 ```bash
 . env/bin/activate
