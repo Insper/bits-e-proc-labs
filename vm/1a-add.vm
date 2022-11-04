@@ -1,0 +1,11 @@
+// ---------------------------------  
+// Rafael Corsi @ insper . edu . br
+//              2018a
+// ---------------------------------
+//
+// Descritivo   : 
+//  Adiciona 123 + 23 e deixa resultado na pilha
+//
+// ----------------------------------
+
+function Main.main 0
